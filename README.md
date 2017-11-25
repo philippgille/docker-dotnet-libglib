@@ -6,9 +6,9 @@ Docker image for building .NET Core applications including libglib2.0-0 for buil
 Supported tags and respective `Dockerfile` links
 ------------------------------------------------
 
-- [`1.1.4-sdk-jessie`, `1.1.4-sdk`, `1.1-sdk`, `1-sdk` (1.1/jessie/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/1.1/jessie/Dockerfile)
-- [`2.0.0-sdk-stretch`, `2.0.0-sdk`, `2.0-sdk`, `2-sdk`, `sdk`, `latest` (2.0/stretch/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/stretch/Dockerfile)
-- [`2.0.0-sdk-jessie`, `2.0-sdk-jessie`, `2-sdk-jessie` (2.0/jessie/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/jessie/Dockerfile)
+- [`1.1.5-sdk-jessie`, `1.1.5-sdk`, `1.1-sdk`, `1-sdk` (1.1/jessie/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/1.1/jessie/Dockerfile)
+- [`2.0.3-sdk-stretch`, `2.0-sdk-stretch`, `2.0.3-sdk`, `2.0-sdk`, `2-sdk`, `sdk`, `latest` (2.0/stretch/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/stretch/Dockerfile)
+- [`2.0.3-sdk-jessie`, `2.0-sdk-jessie`, `2-sdk-jessie` (2.0/jessie/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/jessie/Dockerfile)
 
 Usage
 -----
