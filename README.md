@@ -9,6 +9,10 @@ Supported tags and respective `Dockerfile` links
 - [`1.1.5-sdk-jessie`, `1.1.5-sdk`, `1.1-sdk`, `1-sdk` (1.1/jessie/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/1.1/jessie/Dockerfile)
 - [`2.0.3-sdk-stretch`, `2.0-sdk-stretch`, `2.0.3-sdk`, `2.0-sdk`, `2-sdk`, `sdk`, `latest` (2.0/stretch/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/stretch/amd64/Dockerfile)
 - [`2.0.3-sdk-jessie`, `2.0-sdk-jessie`, `2-sdk-jessie` (2.0/jessie/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.0/jessie/amd64/Dockerfile)
+- [`2.1.0-preview1-sdk-stretch`, `2.1-sdk-stretch`, `2.1.0-preview1-sdk`, `2.1-sdk` (2.1/stretch/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.1/stretch/amd64/Dockerfile)
+- [`2.1.0-preview1-sdk-jessie`, `2.1-sdk-jessie`, (2.1/jessie/amd64/Dockerfile)](https://github.com/philippgille/docker-dotnet-libglib/blob/master/2.1/jessie/amd64/Dockerfile)
+
+> Note: The `2.1` images are preview versions based on the [`microsoft/dotnet-nightly`](https://hub.docker.com/r/microsoft/dotnet-nightly/) images, so don't use them in production.
 
 Usage
 -----
